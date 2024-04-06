@@ -1,4 +1,4 @@
-const BuildSVG = require('./buildSVG');
+const BuildSVG = require('../lib/BuildSVG');
 
 describe('BuildSVG', () => {
   test('should create an SVG content string with text and shape', () => {
