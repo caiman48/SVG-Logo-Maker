@@ -15,6 +15,6 @@ describe('BuildSVG', () => {
     // Check if the result contains the shape element
     expect(result).toContain(shapeElement);
     // Verify that the result string contains the expected SVG tag with specified dimensions
-    expect(result).toContain('<svg width="300" height="200">');
+    expect(result).toContain('<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">');
   });
 });
