@@ -1,6 +1,6 @@
 
         <svg width="300" height="200">
-        <polygon points="150,40 75,160 225,160" fill="white" />
-        <text x="150" y="125" font-size="35" text-anchor="middle" fill="red">ert</text>
+        <circle cx="150" cy="112" r="60" fill="purple" />
+        <text x="150" y="125" font-size="35" text-anchor="middle" fill="red">wer</text>
         </svg>
         
